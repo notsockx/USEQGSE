@@ -1,0 +1,2 @@
+# USEQGSEACH4180.pretty
+Kemet USEQGSEACH4180 SMD footprint
